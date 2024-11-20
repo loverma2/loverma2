@@ -2,7 +2,7 @@
 **Postdoctoral Researcher**  
 **University Medical Center Utrecht**
 
-<img src="umc-utrecht-1.svg" alt="UMC" width="100" />
+<img src="umc-utrecht-1.svg" alt="UMC" width="150" />
 ---
 
 ## About me
