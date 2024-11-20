@@ -14,11 +14,12 @@ During my PhD, I investigated and described the application of data science to v
 
 ## What I am working on
 
-Here is a glimpse of what I am working on:
+Research topics:
 
-- **Symptom Extraction**: Using natural language processing (NLP) to analyze clinical documents and uncover patterns in cardiovascular symptoms 📑.  
-- **Prediction Modeling**: Building machine-learning models to rule out coronary artery disease in patients with stable chest pain symptoms 🫀.  
-- **Sex Differences**: I consider male/female differences in cardiovascular disease by default and always stratify by sex whenever possible 👩🏻‍🤝‍👨🏿.
+- **Symptom Extraction**: Using natural language processing (NLP) and Named Entity Recognition and Linking (NER+L) to extract symptoms from clinical documents and analyze symptom patterns 📑.
+- **Proteomics**: Cluster-based analyses using a panel of 92 plasma proteins to unravel the pathophysiology of cerebral small vessel disease 🧠. 
+- **Prediction Modeling**: Building machine-learning models to rule out coronary artery disease in patients with stable chest discomfort symptoms 🫀.  
+- **Sex Differences**: I consider male/female differences in cardiovascular disease by default and stratify by sex whenever possible 👩🏻‍🤝‍👨🏿.
 
 ---
 
