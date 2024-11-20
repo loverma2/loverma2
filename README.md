@@ -9,8 +9,9 @@
 
 Hello! I'm **Malin Overmars**, a postdoctoral researcher at the **University Medical Center Utrecht**. I focus on **cardiovascular diseases**, combining my background in **data science** with my drive to improve patient outcomes.
 
-During my PhD, I investigated and described the application of data science to various cardiovascular use cases in my dissertation, *"Big Data, Small Vessels"*. From predicting outcomes to extracting symptoms (free text) from clinical documents, my research aims to augment cardiovascular health with data as a foundation.
+During my PhD, I investigated and described the application of data science to various cardiovascular show cases in my dissertation, *"Big Data, Small Vessels"*. From predicting outcomes to extracting symptoms from clinical documents, my research aims to augment cardiovascular health with data as a foundation.
 
+In my view, interdisciplinary collaboration is indispensable in our field; I am energized by collaborations with clinicians, other data scientists, laboratory specialists, and data managers, among others, to achieve clinically relevant outcomes together.
 ---
 
 ## What I am working on
