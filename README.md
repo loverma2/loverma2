@@ -1,7 +1,7 @@
 # Malin Overmars 👋🏼👩🏼‍💻 
 **Postdoctoral Researcher**  
 **University Medical Center Utrecht**
-
+![My profile image](assets/umc-utrecht-1.svg)
 ---
 
 ## About me
