@@ -4,7 +4,7 @@
 
 ---
 
-## A Little About Me
+## About me
 
 Hello! I'm **Malin Overmars**, a postdoctoral researcher at the **University Medical Center Utrecht**. I focus on **cardiovascular diseases**, combining my background in **data science** with my drive to improve patient outcomes.
 
@@ -12,7 +12,7 @@ During my PhD, I investigated and described the application of data science to v
 
 ---
 
-## What I Am Working On
+## What I am working on
 
 Here is a glimpse of what I am working on:
 
@@ -22,7 +22,7 @@ Here is a glimpse of what I am working on:
 
 ---
 
-## Feel Free to Get in Touch! 
+## Feel free to get in touch!
 - **Email**: l.m.overmars-2@umcutrecht.nl
 - **LinkedIn**: https://www.linkedin.com/in/malin-overmars/
 
