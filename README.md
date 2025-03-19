@@ -21,8 +21,7 @@ Research topics:
 
 - **Symptom Extraction**: Using natural language processing (NLP) and Named Entity Recognition and Linking (NER+L) to extract symptoms from clinical documents and analyze symptom patterns 📑.
 - **Proteomics**: Cluster-based analyses using a panel of 92 plasma proteins to unravel the pathophysiology of cerebral small vessel disease 🧠. 
-- **Prediction Modeling**: Building machine-learning models to rule out coronary artery disease in patients with stable chest discomfort symptoms 🫀.  
-- **Sex Differences**: I consider male/female differences in cardiovascular disease by default and stratify by sex whenever possible 👩🏻‍🤝‍👨🏿.
+- **Prediction Modeling**: Building machine-learning models to exclude coronary artery disease in patients with stable chest discomfort symptoms 🫀.  
 
 ---
 
